@@ -1,0 +1,10 @@
+geopy
+matplotlib
+numpy
+pandas
+plotly
+scipy
+torch
+torch_geometric
+torchinfo
+tqdm
